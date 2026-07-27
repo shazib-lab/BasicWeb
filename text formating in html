@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shazib_sheikh</title>
+    <link rel="icon" href="tracking.png" type="image/pnd">
+</head>
+<body>
+
+    <h1>hello workd !</h1><br>
+
+    <p>Bangladesh is a beautiful country</p>
+    <br><hr>
+    <b>Bangladesh is a beautiful country</b><br>
+    <hr>
+    <i>Bangladesh is a beautiful country</i><br>
+    <hr>
+    <u>Bangladesh is a beautiful country</u><br>
+    <hr>
+    <del>Bangladesh is a beautiful country</del><br>
+    <hr>
+    <big>Bangladesh is a beautiful country</big><br>
+    <hr>
+    <small>Bangladesh is a beautiful country </small><br>
+    <hr>
+    <sub>Bangladesh is a beautifyl country</sub><br>
+    <hr>
+    <sup>Bangladesh is a beautiful country</sup><br>
+    <hr>
+    <tt>Bangladesh is a beautiful country</tt><br>
+    <hr>
+    <mark>Bangladesh is a beautiful country</mark><br>
+    <hr>
+   
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shazib_sheikh</title>
+    <link rel="icon" href="tracking.png" type="image/pnd">
+</head>
+<body>
+
+    <h1>hello workd !</h1><br>
+
+    <video width="150" height="200" controls>
+        <source src="vedio/image.mp4" type="vedio/mp4">
+    </video>
+   
+</body>
+</html>

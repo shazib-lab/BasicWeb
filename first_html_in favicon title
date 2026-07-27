@@ -1,0 +1,30 @@
+# title
+# favicon
+# p tag
+# pre tag 
+# h1 tag
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shazib_sheikh</title>
+    <link rel="icon" href="tracking.png" type="image/pnd">
+</head>
+<body>
+
+    <h1>hello workd !</h1><br>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quibusdam porro, 
+        fugit blanditiis asperiores nam inventore quas aliquam 
+        tenetur est explicabo nisi optio non, consequuntur hic, 
+        repudiandae consequatur sed dolores.</p>
+
+    <pre>Lorem ipsum dolor sit amet consectetur adipisicing elit
+        . Nostrum, corporis corrupti dolorum maxime et impedit, tempore reiciendis 
+        itaque quia pariatur nam rerum possimus harum? Maxime 
+        soluta tenetur sunt atque doloremque.</pre>
+    
+</body>
+</html>

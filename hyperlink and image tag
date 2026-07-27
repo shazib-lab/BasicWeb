@@ -1,0 +1,25 @@
+# hyperlink
+# image tag
+# break <br>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shazib_sheikh</title>
+    <link rel="icon" href="tracking.png" type="image/pnd">
+</head>
+<body>
+
+    <h1>hello workd !</h1><br>
+
+    <!-- # hyperlink -->
+    <a href="https://www.facebook.com/" target="_blank">Facebook</a>
+
+    <br>
+    <!-- image tage -->
+    <img src="tracking.png" alt="image" width="100" height="100">
+    
+</body>
+</html>

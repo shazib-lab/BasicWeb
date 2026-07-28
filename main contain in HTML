@@ -8,12 +8,15 @@
 </head>
 <body>
     <header>
-        <p></p>
+        <p>title</p>
+        <p>navbar</p>
+        <p>logo</p>
     </header>
     
 
     <main>
-
+   
+    <p>main contain</p>
 
     </main>
 
@@ -21,7 +24,9 @@
 
     <footer>
 
-
+    <p>contact</p>
+    <p>email</p>
+    <p>resirved</p>
 
     </footer>
 

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shazib_sheikh</title>
+    <link rel="shortcut icon" href="image/tracking.png" type="image/x-icon">
+</head>
+<body>
+    <h1>List in HTML</h1>
+    <p>Unorderd list</p><hr><br>
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+        <li>Services</li>
+    </ul>
+    <p>Orderd list</p><hr><br>
+    <ol>
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+        <li>Services</li>
+    </ol>
+    <p>Description list</p><hr><br>
+    <dl>
+        <dt>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        Voluptate libero eveniet ad nobis voluptatibus, veniam illo, nostrum repudiandae
+        harum debitis eaque, ducimus quos vitae obcaecati quod reiciendis quasi ea commodi.</dt>
+    </dl>
+    
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shazib_sheikh</title>
+    <link rel="shortcut icon" href="image/tracking.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <!-- Internale css  -->
+    <style>
+        h1{
+            color: aqua;
+
+        }
+    </style>
+</head>
+<body>
+    <h1>Internal CSS</h1><br>
+
+    <h2 style="color:red">This is a Inline CSS</h2><br><hr>
+
+    <p class="id">Hello Bangladesh</p><br><hr>
+    <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum nam odio aperiam 
+        itaque recusandae provident soluta, deleniti, 
+        debitis quo, neque beatae omnis delectus! Aperiam aliquam ipsam earum quibusdam fuga autem.</h3><br><hr>
+
+        <p id="pp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem maiores autem 
+            illum nisi qui ab est ipsa culpa quidem, 
+            voluptatibus non voluptas similique repellat. Ducimus omnis est nemo alias nulla?</p>
+
+
+
+
+    <!-- style.css
+
+    /* direct for tag  */
+h3 {
+    color: burlywood;
+    text-align: center;
+}
+
+/* dot for  class */
+
+.id{
+    color: red;
+    text-align: center;
+}
+
+/* hashtag for id */
+
+#pp{
+    text-align: right;
+  
+    color: chartreuse;
+}
+     
+    
+    
+    
+    -->
+
+    
+</body>
+</html>
